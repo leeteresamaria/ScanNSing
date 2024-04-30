@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1530"
+   version = "1.7">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES"
+      buildArchitectures = "Automatic">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F44AF8512B7A834D001B3E0A"
+               BuildableName = "ScanNSing.app"
+               BlueprintName = "ScanNSing"
+               ReferencedContainer = "container:ScanNSing.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      shouldAutocreateTestPlan = "YES">
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F44AF8512B7A834D001B3E0A"
+            BuildableName = "ScanNSing.app"
+            BlueprintName = "ScanNSing"
+            ReferencedContainer = "container:ScanNSing.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "IDELogRedirectionPolicy"
+            value = "oslogToStdio"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "OS_ACTIVITY_MODE"
+            value = "disable"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "token"
+            value = "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI3IiwianRpIjoiMDQ1MjZmMmNmZDk0ZGZlM2NkYmM5OTUxMTBkMzYwMWUyMWJiMDc5MjRjOGNmOWY0YTY3NTE1ZTk3NDgxNTllZThiNDRmNWU3ODk2ODRiYTAiLCJpYXQiOjE3MDc3ODAyMzMuMjYyNzYsIm5iZiI6MTcwNzc4MDIzMy4yNjI3NjQsImV4cCI6MjAyMzM5OTQzMy4yMjU3NDcsInN1YiI6IjE3MDk5OCIsInNjb3BlcyI6WyJhdWRpb3MiLCJ3cml0ZS1hdWRpb3MiLCJyZWFkLWF1ZGlvcyIsImZpbGVzY2FubmluZyIsIndyaXRlLWZpbGVzY2FubmluZyIsInJlYWQtZmlsZXNjYW5uaW5nIl19.qaGHQfTrkYJAzhQoT7MlAt3x8RNRBcoINb6irr41BJTvfWVzVecjDx-7Ja0lYlEqJilljOWdGsgD-m2gjHHq3Q-AG6V1APNFv4hTkUEo6Rkrs5_KrtV05thKqWo0IIyRRjXIA081FDMveSex78tAMwwSzQLNgvjQuQ8cbKl187JHclvzr0jgWU7MPjW5j3GYlQ89XJkB_iCqVlwQu_i9Jj2tFcIDjSuPe6BXAS4CHKjX4hTE43VEWZ8phyh-ntEPqe2hmiUm8VzVnUx_T5QAspLYaY6hIWpOeuMshiPfZJklc0yOPjR4-tpv30Z7DH92BG7zdPZBjwghQuJKeqCL8JzMcqYY1RDCyHVI--t8fxvRrIH5bbK-GXp5PSoM4ILpP4RAszkeCqkopF7y-XgLZYA0R6mDzsokC3jUx73dZrSoZPZmsN56bCqmjwCPGtHJdI6hYQXLE2CK9YeQsuI2JhTasSsi4eaxVeEdA8yO-61j08wq-1Jq0hTNiTr7I--SADr745ddfCUqNi7H9-nrSSYh27lxCBexn10XD_JZlViixxPZQuxxJmT4pUysVzuamibUmwCc0v1iLGTz-GJX_gzQSsNwjf1QT7h1fZWCFuQLiy3tv5kk2GsujZX3m0bLLt9b9zpz_0N9kwkJ9ojk3Aom1NWTK1iwV0C2mm9SuWU"
+            isEnabled = "NO">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F44AF8512B7A834D001B3E0A"
+            BuildableName = "ScanNSing.app"
+            BlueprintName = "ScanNSing"
+            ReferencedContainer = "container:ScanNSing.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
